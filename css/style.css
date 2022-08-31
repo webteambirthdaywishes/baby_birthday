@@ -1042,6 +1042,8 @@ input.Enter_text::placeholder {
 .copyright_text a:hover {
     color: #fb8a05;
 }
-
+b{
+    font-weight: bold !important;
+}
 
 /* copyright section end */
